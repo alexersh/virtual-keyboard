@@ -21,7 +21,7 @@ init() {
   this.elements.keysContainer = document.createElement("div");
 
   // Setup main elements
-  this.elements.main.classList.add("keyboard", "keyboard--hidden");
+  this.elements.main.classList.add("keyboard", "keyboard-hidden");
   this.elements.keysContainer.classList.add("keyboard-keys");
   this.elements.keysContainer.appendChild(this.createKeys());
 
