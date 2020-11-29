@@ -12,7 +12,7 @@ The application is running on a clean HTML5/Javascript/CSS3
 To easily set up the application, clone this repository which contains JS, HTML and CSS files
 
 ```bash
-git clone https://github.com/alexersh/vanilla-todo-list.git
+git clone https://github.com/alexersh/virtual-keyboard.git
 ```
 
 ### Test the application
