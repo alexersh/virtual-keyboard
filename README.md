@@ -6,7 +6,7 @@ The application is running on a clean HTML5/Javascript/CSS3
 - We have a virtual keyboard that is logically bound to the input field.
 - We can enter and erase symbols with it.
 - There is a button that hides the keyboard.
-- To open the keyboard, press the input field again
+- To open the keyboard, press on the input field again
 
 ### Clone the repository
 To easily set up the application, clone this repository which contains JS, HTML and CSS files
